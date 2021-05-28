@@ -1,0 +1,140 @@
+main{
+    max-width: 1200px;
+    margin: auto;
+    
+}
+header{
+    text-align: center;
+    align-items: center;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content:center;
+    margin-right: 30px;
+}
+ul img{
+    display: flex;
+    justify-content:flex-start;
+    margin-right: 20px;
+    width: 60px;
+    height: 140px;
+}
+ul img:hover{
+    width: 70px;
+    height: 150px;
+    
+}
+
+body, html {
+  height: 100%;
+}
+article{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 870px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*JS scripthez tartozó classok*/
+.parallax1 {
+  /* The image used */
+  background-image: url("kepek/asia1nagy.png");
+
+  /* Full height */
+  height: 200%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-device-width: 1366px) {
+  .parallax1 {
+    background-attachment: scroll;
+  }
+}
+
+
+.nude1 {
+    border: 1px solid black;
+    background-image: url("kepek/asia 2.png");
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 150px;
+}
+.parallax2 {
+  /* The image used */
+  background-image: url("kepek/barna 1 nagy.png");
+
+  /* Full height */
+  height: 200%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-device-width: 1366px) {
+  .parallax2 {
+    background-attachment: scroll;
+  }
+}
+
+
+.nude2 {
+    border: 1px solid black;
+    background-image: url("kepek/barna 2.png");
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 150px;
+}
+.parallax3 {
+  /* The image used */
+  background-image: url("kepek/vörös1 Nagy.png");
+
+  /* Full height */
+  height: 200%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-device-width: 1366px) {
+  .parallax3 {
+    background-attachment: scroll;
+  }
+}
+
+
+.nude3 {
+    border: 1px solid black;
+    background-image: url("kepek/vörös 2.png");
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 150px;
+}
