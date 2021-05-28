@@ -66,11 +66,6 @@ article{
   background-position: center;
   background-repeat: no-repeat;
 }
-@media only screen and (max-device-width: 1366px) {
-  .parallax1 {
-    background-attachment: scroll;
-  }
-}
 
 
 .nude1 {
@@ -94,11 +89,6 @@ article{
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-}
-@media only screen and (max-device-width: 1366px) {
-  .parallax2 {
-    background-attachment: scroll;
-  }
 }
 
 
@@ -124,11 +114,6 @@ article{
   background-position: center;
   background-repeat: no-repeat;
 }
-@media only screen and (max-device-width: 1366px) {
-  .parallax3 {
-    background-attachment: scroll;
-  }
-}
 
 
 .nude3 {
@@ -152,11 +137,6 @@ article{
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-}
-@media only screen and (max-device-width: 1366px) {
-  .parallax4 {
-    background-attachment: scroll;
-  }
 }
 
 
@@ -182,11 +162,6 @@ article{
   background-position: center;
   background-repeat: no-repeat;
 }
-@media only screen and (max-device-width: 1366px) {
-  .parallax5 {
-    background-attachment: scroll;
-  }
-}
 
 
 .nude5 {
@@ -210,11 +185,6 @@ article{
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-}
-@media only screen and (max-device-width: 1366px) {
-  .parallax6 {
-    background-attachment: scroll;
-  }
 }
 
 
@@ -240,11 +210,6 @@ article{
   background-position: center;
   background-repeat: no-repeat;
 }
-@media only screen and (max-device-width: 1366px) {
-  .parallax7 {
-    background-attachment: scroll;
-  }
-}
 
 
 .nude7 {
@@ -268,11 +233,6 @@ article{
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-}
-@media only screen and (max-device-width: 1366px) {
-  .parallax8 {
-    background-attachment: scroll;
-  }
 }
 
 
